@@ -137,6 +137,7 @@ img{
 }
 
 .menu-nav ul li a{
+  font-size: 14px;
   padding: 10px 15px;
   color: #ffff;
   text-transform: uppercase;
