@@ -333,6 +333,10 @@ footer ul li {
 
 @media(max-width: 768px){
 
+  .sobre-nav .container{
+    justify-content: center;
+  }
+
   .menu .container{
     flex-direction: column;
     align-items: center;
