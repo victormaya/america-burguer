@@ -1,0 +1,25 @@
+.capa{
+  padding-bottom: 30px;
+  background: url(../imagens/capa-quem-somos.png) no-repeat;
+  background-size: cover;
+}
+.capa .page-local{
+  margin-top: 46px;
+  font-size: 18px;
+  font-weight: bold;
+  position: relative;
+}
+
+.page-local span{
+  color: #009918;
+}
+
+.quem-somos{
+  background: url(../imagens/fundo-quem-somos.svg);
+  background-size: cover;
+  padding: 60px 0;
+}
+.quem-somos .container{
+  flex-direction: column;
+  text-align: center;
+}

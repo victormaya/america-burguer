@@ -160,7 +160,7 @@ img{
 
 .capa{
   padding: 100px 0;
-  background: url(../imagens/foto-capa.png);
+  background: url(../imagens/foto-capa.png) no-repeat;
   background-size: cover;
   text-align: center;
 }
